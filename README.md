@@ -1,4 +1,5 @@
-# Practica-Obligatoria-Spark-BICIMAD
+# Grupo 11: Íñigo Iriondo, Álvaro Pleguezuelos y Alejandro Hernando
+
 Definición del problema y motivación
 
 El objetivo de esta práctica es estudiar el uso del sistema de bicicletas de préstamo BICIMAD en Madrid, viendo las estaciones más y menos utilizadas en diferentes horarios del día y los códigos postales más populares.
